@@ -15,8 +15,6 @@
 </div>
   
   ##
-
-  ![snake gif](https://github.com/juninho15830/juninho15830/blob/output/github-contribution-grid-snake.gif)
  
 <div> 
   <a href="https://www.instagram.com/__daiiki/profilecard/?igsh=MW9xZ25wdWU2MjA4Zw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
