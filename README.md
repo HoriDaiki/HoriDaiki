@@ -1,6 +1,11 @@
 ## Olá! Meu nome é Lucas Daiki, sou um estudante de Ciência da Computação.
 
+<p>Atualmente trabalho como Assistentee de T.I, porém, estou focando meus estudos em desenvolvimento web.</p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoriDaiki&show_icons=true&theme=radical)
+
+## Tecnologias que eu uso no meu dia
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoriDaiki&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
